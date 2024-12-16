@@ -32,6 +32,7 @@ urlpatterns = [
 
     path("booking/", include('booking.urls')),
 
+
     path("trainers/", include('trainer.urls')),
 
 
